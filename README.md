@@ -42,10 +42,10 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
     - How many months exist on Mars?
     - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
     - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
-        - Find the average the minimum daily temperature for all of the months.
+        - Find the average minimum daily temperature for all of the months.
         - Plot the results as a bar chart.
     - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
-        - Find the average the daily atmospheric pressure of all the months.
+        - Find the average daily atmospheric pressure of all the months.
         - Plot the results as a bar chart.
         - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
             - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
@@ -67,4 +67,5 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 As a reminder, the deliverables for this Challenge are as follows:
 - Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
 - Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
+
 To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
